@@ -1,0 +1,12 @@
+1|Milos|Crnjanski|AUTOR
+2|Ivo|Andric|AUTOR
+3|Dobrica|Cosic|AUTOR
+4|Mesa|Selimovic|AUTOR
+5|Mark|Kameron|AUTOR
+6|John|John|REZISER
+7|Mark|Mark|ILUSTRATOR
+8|Bob|Bob|SCENARISTA
+9|Ron|Ron|AUTOR
+10|Rok|Rok|AUTOR
+11|Momir|Bulatovic|AUTOR
+12|Bane|Bane|AUTOR

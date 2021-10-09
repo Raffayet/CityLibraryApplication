@@ -1,0 +1,32 @@
+1) korisnici.txt
+
+-za clanove
+id|tipKorisnika|Ime|Prezime|KorisnickoIme|Lozinka|aktivnost|jmbg|datumRodjenja|vrstaClana|id trenutne clanarine
+
+-za bibliotekare
+id|tipKorisnika|Ime|Prezime|KorisnickoIme|Lozinka|aktivnost|vrstaBibliotekara
+
+
+2) clanarine.txt
+id|datumIzdavanja|tipClanarine|cena
+
+3) izdateClanarine.txt
+id|datumIzdavanja|id clanarine| id clana
+
+4) kategorijeKnjige.txt
+id|naziv|id podkategorija
+
+5) knjige.txt
+id|isbn|naslov|izdavac|mesto|godina|brojStranica|visina|ukupanBroj|brojSlobodnih|brojRezervisanih|iznosivost|id autora|id kategorija| id primeraka| id kreatora
+
+6) primerciKnjige.txt
+id|ocuvanost|raspolozivost|id knjige
+
+7) ucesniciKnjige.txt
+id|ime|prezime|vrstaAutorstva
+
+8) rezervacija.txt
+id|datumRezervacije|aktivna|id izdatog primerka| id clana
+
+9) izdatiPrimerci.txt
+id|datumIzdavanja|id primerka knjige| id clana| vracen | datumVracanja| ocena

@@ -1,0 +1,9 @@
+1|978-3-16-148410-0|Na Drini cuprija|Laguna|Beograd|2011|220|22|5|4|0|true|2|5|1,2,3,4,5
+2|545-1-45-132434-1|Dervis i smrt|Laguna|Beograd|2005|245|20|3|3|0|true|4|5,1|6,7,8
+3|133-4-41-654576-1|Seobe|Vulkan|Novi Sad|2021|288|21|4|2|0|true|1|5|9,10,11,12
+4|134-1-52-432123-4|Koreni|Vulkan|Beograd|2014|254|23|2|0|1|true|3|5|13,14
+5|123-1-44-553422-1|Ahilova pesma|Laguna|Beograd|2018|180|24|1|0|0|true|5|1|15
+6|321-4-13-442431-2|Tajna uspeha|Laguna|Beograd|500|20|20|2|2|0|false|9,10|3|16,17|6,7,8
+7|111-1-11-111111-1|Nevidljivi Lanci|Laguna|Beograd|2014|250|21|2|2|0|true|11,12|3,2|18,19|6
+8|nova|nova|nova|nova|2000|1|1|7|0|0|true||1|20,21,22,23,24,25,26
+9|112|fasdf|fdsa|gfsad|2007|9|6|6|0|0|true||1|27,28,29,30,31,32

@@ -1,0 +1,7 @@
+1|drama
+2|akcija
+3|misterija
+4|ruskaKnjizevnost|6,7
+5|srpskaKnjizevnost
+6|ruskaBiografija
+7|ruskiRomantizam
